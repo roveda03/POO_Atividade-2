@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\bin\Debug\net10.0\Calcular.exe
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\bin\Debug\net10.0\Calcular.deps.json
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\bin\Debug\net10.0\Calcular.runtimeconfig.json
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\bin\Debug\net10.0\Calcular.dll
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\bin\Debug\net10.0\Calcular.pdb
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.sourcelink.json
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.dll
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\refint\Calcular.dll
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.pdb
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\Calcular.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Faculdade\POO\poo-att-2\POO_Atividade-2\Calcular\obj\Debug\net10.0\ref\Calcular.dll
